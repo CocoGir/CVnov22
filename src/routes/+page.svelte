@@ -57,7 +57,7 @@
 	}
 
 	.name {
-		color : red; 
+		color : blue; 
 		font-size : 35px;
 		font-weight : bold; 
 		font-family : Verdana, serif; 
